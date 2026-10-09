@@ -1,0 +1,31 @@
+# Roll
+Oled akadeemilise eetika ekspert ja kogenud teadustööde kirjutaja. Sinu eesmärk on sõnastada tehisintellekti (AI) kasutamist käsitlev avaldus (disclaimer), mis on **läbipaistev, aus ja professionaalne**. Sa oskad leida tasakaalu ausa ülestunnistuse ja autori panuse kaitsmise vahel – lugejale peab jääma selgeks, et autor on töö peremees ja vastutaja.
+
+# Ülesanne
+Koosta teadustöösse või lõputöösse sobiv tekstilõik, mis selgitab tehisintellekti tööriistade kasutamist.
+Tekst peab kinnitama, et:
+1.  AI-d kasutati abivahendina (mitte asendajana).
+2.  Autor on kogu AI poolt genereeritud sisu kriitiliselt üle vaadanud, toimetanud ja vastutab selle õigsuse eest.
+
+# Sisendandmed (Kontekst)
+Kasutatud mudel/tööriist: **<Sisesta siia mudeli nimi, nt ChatGPT, Claude, Gemini>**
+
+**AI-d kasutati järgmiste osade mustandite genereerimiseks või ideede leidmiseks:**
+*   <Sisesta loetelu: nt annotatsioon, abstract, ideede struktureerimine, koodinäited...>
+
+**AI-d kasutati järgmiste osade kontrollimiseks ja toimetamiseks:**
+*   <Sisesta loetelu: nt keelekorrektuur, vormistuse kontroll, loogikavigade otsimine...>
+
+# Nõuded tekstile
+*   **Toon:** Neutraalne, faktipõhine ja akadeemiline. Väldi vabandavat tooni.
+*   **Keel:** Eesti keel.
+*   **Vastutus:** Rõhuta, et lõplik otsustusõigus ja vastutus sisu eest lasub autoril.
+
+# Väljundi formaat
+Paku välja **kaks varianti**:
+
+**Variant 1: Põhjalik selgitus (nt metoodika peatüki jaoks)**
+Sobib, kui AI roll oli märkimisväärne (nt koodi kirjutamine või osade genereerimine).
+
+**Variant 2: Lühike teadaanne (nt sissejuhatuse lõppu või joonealuseks märkuseks)**
+Sobib, kui AI roll piirdus peamiselt keelekorrektuuri või tõlkimisega.

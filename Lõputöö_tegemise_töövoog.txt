@@ -1,0 +1,41 @@
+/*Käivitage siin toodud järjekorras viipasid, mis on nimetatud kataloogides.*/
+
+Kataloog 01
+Ideede_genereerimine
+
+Uurimisküsimuste_genereerimine (sisend: parimaks peetud idee)
+
+Kataloog 02
+Ülesandepüstituse_genereerimine (sisend: idee ja uurimisküsimused)
+
+Kataloog 03
+Sissejuhatus (sisend: ülesandepüstitus)
+Sisukord (sisend: ülesandepüstitus)
+Valideerimise_plaan (sisend: ülesandepüstitus)
+Seotud tarkvara (sisend: ülesandepüstitus)
+
+<töö sisu osa tegemine>
+
+Vajadusel:
+AHP_kriteeriumid_alternatiivid (sisend: ülesandepüstitus)
+Suured_keelemudelid (sisend: lõputöö mustand)
+Riskid (sisend: lõputöö mustand)
+Kataloogist Veebiküsitlus_intervjueerimine (sisend: lõputöö mustand)
+
+Uudsus (sisend: lõputöö mustand) - alus töö täiendamiseks.
+Töö struktuur (sisend: lõputöö mustand). Tulemus läheb sissejuhatusse.
+Huvitatud osapooled (sisend: lõputöö mustand). Tulemus läheb analüüsi peatükki.
+Piirangud (sisend: lõputöö mustand). Tulemus läheb analüüsi peatükki.
+Arengusuunad (sisend: lõputöö mustand). Tulemus läheb analüüsi peatükki.
+Litsenseerimine (sisend: lõputöö mustand). Tulemust tuleks kajastada tulemuste peatükis, et tuua välja, millised töö tulemused tehakse kõigile avalikuks, millise litsentsiga ja miks just sellisega.
+Lühendite ja mõistete sõnastik (sisend: lõputöö mustand)
+Annotatsioonid (sisend: lõputöö mustand)
+Kokkuvõte (sisend: lõputöö mustand)
+Lõputöö pealkiri (sisend: lõputöö mustand)
+TI kasutuse deklaratsioon (sisend: info TI abil genereeritud töö osadest). Tulemuse võiks panna metoodika peatükki tööriistade kasutuse juurde.
+
+Kataloog 04
+Kõigepealt kontrollida tööd kõigi viipadega kataloogist "Konkreetsed vead".
+Kataloogist "Üldisem tagasiside" kasutada **vähemalt**:
+* Eelkaitsmise täiendused
+* Retsensent kompaktne

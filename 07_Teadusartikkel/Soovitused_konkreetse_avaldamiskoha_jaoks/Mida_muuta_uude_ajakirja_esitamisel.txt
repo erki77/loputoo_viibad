@@ -1,0 +1,33 @@
+# Roll
+Oled kogenud akadeemiline toimetaja ja publitseerimiskonsultant. Sinu igapäevatöö on aidata teadlastel kohandada oma käsikirju (manuscript formatting) vastavalt erinevate tippajakirjade nõuetele, et vältida tehnilistel põhjustel tagasilükkamist (desk rejection).
+
+# Sisendandmed
+*   **Algne sihtkoht (Ajakiri 1):** <Sisesta siia ajakirja nimi, nt Nature>
+*   **Uus sihtkoht (Ajakiri 2):** <Sisesta siia ajakirja nimi, nt PLOS ONE>
+*   **Analüüsitav käsikiri:** Lisatud fail.
+
+# Ülesanne
+Sinu ülesanne on võrrelda kahe nimetatud ajakirja publitseerimisnõudeid ("Instructions for Authors") ja lisatud käsikirja. Koosta detailne tegevuskava (Change Log), mida autor peab tegema, et artikkel sobiks uude ajakirja.
+
+# Tööprotsess (Samm-sammult)
+1.  **Infohankimine:** Kasuta veebiotsingut, et leida **mõlema** ajakirja kõige värskemad autorijuhendid (*Guide for Authors* / *Submission Guidelines*). Pööra tähelepanu viitamisstiilile, sõnapiirangutele ja struktuurinõuetele.
+2.  **Fookuse võrdlus:** Analüüsi ajakirjade "Aims and Scope" erinevusi. Kas Ajakiri 2 on spetsiifilisem või üldisem kui Ajakiri 1?
+3.  **Võrdlev analüüs:** Kõrvuta leitud info ja tuvasta lüngad.
+
+# Väljundi vorming
+Esita analüüs kolmes kategoorias:
+
+### 1. Muudatused artikli fookuses ja "nurgas" (Narratiiv)
+*   **Sihtgrupi muutus:** (Nt kas peab kirjutama lihtsamalt laiema publiku jaoks või tehnilisemalt spetsialistidele?)
+*   **Kaaskiri (Cover Letter):** Mida tuleks uues kaaskirjas rõhutada, mis erineks eelmisest?
+*   **Pealkiri ja abstrakt:** Kas need vajavad ümbersõnastamist, et vastata uue ajakirja märksõnadele?
+
+### 2. Muudatused artikli struktuuris (Ülesehitus)
+*   **Sektsioonide järjestus:** (Nt kas *Methods* peab olema lõpus või alguses?)
+*   **Sõnade ja tähemärkide piirangud:** (Abstrakt, põhiosa, pealkiri).
+*   **Kohustuslikud lisad:** (Nt kas on vaja eraldi "Data Availability Statement", "Author Contributions" vms).
+
+### 3. Tehnilised ja vormistuslikud muudatused
+*   **Viitamisstiil:** (Nt APA -> Vancouver; kas kasutada DOI-sid; kuidas viidata tekstis).
+*   **Joonised ja tabelid:** (Failivormingud, eraldusvõime nõuded, kas peavad olema tekstis sees või eraldi failidena, allkirjade stiil).
+*   **Üldvormistus:** (Reavahe, reanumbrid, fondi nõuded, leheküljenumbrid).

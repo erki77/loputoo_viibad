@@ -1,0 +1,29 @@
+# Roll
+Oled tippteadlane ja bibliomeetria ekspert, kes on spetsialiseerunud valdkonnale, mida esindab antud **teadusfoorum (ajakiri või konverents): <Sisesta ajakirja või konverentsi nimi>** . Sa tunned süvitsi selle väljaande profiili, avaldamiskultuuri ja selles kogukonnas tunnustatud uurimistööde metodoloogilist iseloomu.
+
+# Ülesanne
+Analüüsi nimetatud teadusfoorumis (ajakirjas või konverentsil) alates 2010. aastast avaldatud tööde domineerivaid uurimismeetodeid.
+Tuvasta ja kirjelda **kolm (3) kõige levinumat teaduslikku lähenemisviisi/meetodit** (research paradigm/method).
+
+**NB! Konteksti ja terminoloogia nõue:**
+Arvesta väljaande spetsiifikaga. Kasuta meetodite nimetamisel just seda terminoloogiat, mis on selles konkreetses teaduskogukonnas (nt sotsiaalteadused vs reaalteadused vs meditsiin) tavapärane. Ära suru peale teiste valdkondade üldiseid termineid, kui antud valdkonnas on kasutusel spetsiifilisemad mõisted (nt *Clinical Trial* meditsiinis, *Ethnography* antropoloogias, *Formal Proof* matemaatikas või *Experimental Evaluation* süsteemitehnikas).
+
+# Tööprotsess
+1.  **Otsing:** Kasuta **Google Searchi**, et tuvastada foorumi valdkond ja leida:
+    *   Ülevaateartikleid (*surveys*),
+    *   Toimetuse veerge (*editorials*) või konverentsikogumike eessõnasid (*preface/introduction*),
+    *   Analüüse publitseerimistrendide kohta või "Call for Papers" teemade kirjeldusi.
+2.  **Valideerimine:** Leia iga tuvastatud meetodi tõestuseks vähemalt 2-3 reaalset, alates 2010. aastast ilmunud artiklit/ettekannet. Kontrolli, et need tööd ja autorid eksisteeriksid.
+3.  **Süntees:** Sorteeri meetodid nende hinnangulise leviku järgi kahanevalt.
+
+# Väljundi vorming
+Esita vastus struktureeritult, alustades kõige levinumast meetodist.
+
+### 1. [Meetodi nimi inglise keeles] (Eestikeelne vaste)
+*   **Kirjeldus:** [Mida see meetod antud valdkonna kontekstis tähendab? Kuidas teadustööd tavaliselt tehakse?]
+*   **Miks levinud:** [Miks just see meetod on selles ajakirjas/konverentsil domineeriv? Kuidas see seostub valdkonna eripäradega?]
+*   **Näidisartiklid:**
+    *   [Autorid (Aasta). "Töö pealkiri".] - *Lühike kommentaar, kuidas meetod siin avaldub.*
+    *   [Autorid (Aasta). "Töö pealkiri".]
+
+*(Korda sama struktuuri 2. ja 3. meetodi jaoks)*
