@@ -9,12 +9,13 @@ Loe läbi **lisatud failis** olev LaTeX-kood ja tõlgi kogu eestikeelne sisuteks
 
 # Reeglid ja piirangud
 *   **Sisendi eelistus:** Tõlgitav algmaterjal asub esmajärjekorras kaasapandud failis.
-*   **LaTeX-i tehniline puutumatus (Kriitiline!):**
+*   **LaTeX-i tehniline puutumatus ja ERAND (Kriitiline!):**
     *   Kõik LaTeX-i käsud, struktuurimärgendid ja makrod (nt `\begin{}`, `\end{}`, `\section{}`) peavad jääma TÄPSELT algsele kujule.
     *   **Ainus erand koodi muutmisel:** Otsi üles käsk `\selectlanguage{estonian}` ja asenda see RANGELT käsuga `\selectlanguage{english}`.
     *   **ÄRA TÕLGI** identifikaatoreid, muutujaid ega võtmeid: `\label{...}`, `\ref{...}`, `\cite{...}`, `\eqref{...}` sisu peab jääma originaalkeelele (nt kui originaal on `\label{joonis1}`, siis see jääb `\label{joonis1}`, muidu viitamissüsteem puruneb).
     *   Tõlgi ainult kasutajale nähtav tekst, pealkirjad ja allkirjad (nt `\caption{Tõlgitav tekst}`). Matemaatiliste valemite (`$ ... $` või `\[ ... \]`) sisu ei puutuuta.
 *   **Briti inglise keel:** Järgi rangelt Briti ortograafiareegleid (nt *analyse*, *colour*, *behaviour*, *-ise* lõpud, *centre* jne).
+*   **Oxfordi koma (Kriitiline!):** Ingliskeelses tõlkes **peab** rangelt kasutama Oxfordi koma (*serial comma*). Kõikides kolme või enama osaga loeteludes peab viimase sidesõna (*and*, *or*) ees olema koma (nt "A, B, and C").
 *   **Täpne ja truu tõlge:** Lähteteksti mõttest ei tohi mitte midagi muutuda ega kaotsi minna. Sul on RANGELT KEELATUD lähteteksti ise muudatusi, lisandusi või uusi selgitusi juurde mõelda.
 *   **Väljundi puhtus:** Ei mingeid sissejuhatusi, heietusi ega kokkuvõtteid ("Siin on teie fail" vms). Väljundiks on ainult analüüsiplokk ja kood.
 
@@ -24,6 +25,7 @@ Enne koodi genereerimist tee `<mõttekäik>` ja `</mõttekäik>` märgendite vah
 2. Millised on failis olevad spetsiifilised LaTeX-i viited (nt `\label{}`, `\cite{}`), mida ma kindlasti ei tohi tõlkida?
 3. Kas `\selectlanguage{estonian}` on leitud ja kas see on asendatud `\selectlanguage{english}` käsuga?
 4. Kas tekstis on pikki keerulisi lauseehitusi, mis nõuavad inglise keeles akadeemilise voolavuse tagamiseks struktuuri kohendamist (ilma algmõtet muutmata)?
+5. Kas tekstis esineb kolme- või enamaosalisi loetelusid ja kas ma olen lisanud nende lõppu enne sidesõna Oxfordi koma?
 
 # Väljundi vorming
 Esita vastus täpselt järgmises struktuuris:
