@@ -1,7 +1,8 @@
 # Muutuste logi
 
 ## 10.10.2026
-* Kataloogis `01` olevaid viipasid täiendati nõudega, et viiba kasutaja peab määrama, kas on oodata *Cum laude*t. See on oluline kontekst keelemudelile, et otsustada, kas idee on piisavalt väljakutset pakkuv või mitte.
+* Kataloogis `01` olevaid mõningaid viipasid täiendati nõudega, et viiba kasutaja peab määrama, kas on oodata *Cum laude*t. See on oluline kontekst keelemudelile, et otsustada, kas idee on piisavalt väljakutset pakkuv või mitte.
+* Kataloogi `08` lisandus viip .tex faili tõlkimiseks eesti keelest Briti inglise keelde.
 
 ## 08.10.2026
 * Kataloogi `02` lisandusid viibad magistriseminari probleemipüstituse genereerimiseks ja kontrollimiseks. Kasutaja peab andma ette probleemipüstituse nõuete URL-i või tekstikirjelduse.
