@@ -36,10 +36,11 @@ Esita vastus täpselt järgmises struktuuris, kasutades Markdown-vormingut. Esit
 
 ***
 
+**[LISA DOKUMENT FAILI MANUSENA]**
+
 **Sisendandmed analüüsimiseks:**
 *   **Õppetase:** [SISESTA ÕPPETASE (nt Bakalaureus/Magister)]
 *   **Õppekava ja selle eesmärgid:** [SISESTA ÕPPEKAVA NIMI JA EESMÄRGID]
-*   **Aluseks olev lõputöö (kokkuvõte või tekst):** 
 
 **Analüüsitav vaba tekst (kui ei lisanud faili või soovid failile lisada täiendavaid märkusi):**
 [JÄTA TÜHJAKS, KUI LISASID AINULT FAILI, VÕI SISESTA OMA TEKST/MÄRKUSED SIIA]
