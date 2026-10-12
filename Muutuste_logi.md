@@ -2,6 +2,8 @@
 
 ## 13.10.2026
 * Kataloogi `01` lisati viip ideede võrdlemiseks. Lisaks parandati paari viiba sõnastust selles osas, kuidas tuleb sisend esitada.
+* Lisandus eraldi kataloog `09` tõlkimise jaoks. Sinna liikus viip .tex faili tõlkimiseks eesti keelest Briti inglise keelde.
+* Kataloogi `09` lisandus viip .tex faili tõlkimiseks inglise keelest eesti keelde.
 
 ## 10.10.2026
 * Kataloogis `01` olevaid mõningaid viipasid täiendati nõudega, et viiba kasutaja peab määrama, kas on oodata *Cum laude*t. See on oluline kontekst keelemudelile, et otsustada, kas idee on piisavalt väljakutset pakkuv või mitte.
