@@ -1,5 +1,8 @@
 # Muutuste logi
 
+## 26.10.2026
+* Kataloogi `07` lisati kataloog "Idee", kus on viip teadusartikli idee genereerimiseks.
+
 ## 13.10.2026
 * Kataloogi `01` lisati viip ideede võrdlemiseks. Lisaks parandati paari viiba sõnastust selles osas, kuidas tuleb sisend esitada.
 * Lisandus eraldi kataloog `09` tõlkimise jaoks. Sinna liikus viip .tex faili tõlkimiseks eesti keelest Briti inglise keelde.
