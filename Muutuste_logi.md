@@ -1,5 +1,8 @@
 # Muutuste logi
 
+## 27.10.2026
+* Kataloogis `01` muudeti ideede genereerimise viipa, et see arvestaks Cum Laude võimalusega ning sellega, et idee oleks lõputöö ainepunktide arvu arvestades sobiv.
+
 ## 26.10.2026
 * Kataloogi `07` lisati kataloog "Idee", kus on viip teadusartikli idee genereerimiseks.
 
