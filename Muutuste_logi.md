@@ -1,5 +1,9 @@
 # Muutuste logi
 
+## 28.10.2026
+* Kataloogi `03\Veebiküsitlus_intervjueerimine` sisu töötati täielikult ümber, et seal olevad viibad oleks piisavalt üldised igasuguste intervjuu ja veebiküsitluse plaanide genereerimiseks,
+kontrollimiseks ja tulemuste vormistamiseks.
+
 ## 27.10.2026
 * Kataloogis `01` muudeti idee hindamise viipa, et see hindaks ka idee sobivust ainepunktide arvu arvestades.
 * Kataloogis `01` muudeti ideede genereerimise viipa, et see arvestaks Cum Laude võimalusega ning sellega, et idee sobiks lõputöö ainepunktide arvu arvestades.
