@@ -30,7 +30,7 @@ Väljasta analüüs selgelt jaotatuna kaheks põhiosaks.
 * **Soovitus ja asukoht:**[Nt "Säilitada põhiosas", "Kustutada (ei anna lisaväärtust)", "Viia Lisasse 1", "Muuta joonise tüüpi"].
 
 ### Osa 2: Uued soovituslikud joonised
-*(Kui jooniseid on piisavalt, kirjuta siia: "Töös on tabeleid piisavalt ja uute jooniste lisamine pole vajalik.")*
+*(Kui jooniseid on piisavalt, kirjuta siia: "Töös on jooniseid piisavalt ja uute jooniste lisamine pole vajalik.")*
 
 *(Kui uusi jooniseid on vaja, korda iga joonise kohta järgmist:)*
 * **Joonise eesmärk ja tüüp:**[Mida joonis näitab ja miks seda vaja on?]

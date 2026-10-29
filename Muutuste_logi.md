@@ -1,5 +1,8 @@
 # Muutuste logi
 
+## 29.10.2026
+* Parandati näpuviga jooniste auditi viibas.
+
 ## 28.10.2026
 * Kataloogi `03\Veebiküsitlus_intervjueerimine` sisu töötati täielikult ümber, et seal olevad viibad oleks piisavalt üldised igasuguste intervjuu ja veebiküsitluse plaanide genereerimiseks,
 kontrollimiseks ja tulemuste vormistamiseks.
