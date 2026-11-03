@@ -1,5 +1,9 @@
 # Muutuste logi
 
+## 03.11.2026
+* Kataloogi `04\Üldisem tagasiside` lisandus kataloog `Kõrvaltvaataja`, kus on viip lugemaks tööd neutraalse kõrvaltvaataja pilguga ning leidmaks sealt kõik mõttekonarused ja mõttelõnga katkemised.
+* Kataloogi `06` lisandus viip, et genereerida lõputöö põhjal valmis pptx-fail ettekandega.
+
 ## 29.10.2026
 * Parandati näpuviga jooniste auditi viibas.
 

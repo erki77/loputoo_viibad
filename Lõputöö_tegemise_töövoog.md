@@ -46,3 +46,4 @@
 2. Kataloogist **"Üldisem tagasiside"** kasuta **vähemalt** järgmisi viipasid:
    * **Eelkaitsmise täiendused**
    * **Retsensent kompaktne**
+   * **Kõrvaltvaataja pilk**
