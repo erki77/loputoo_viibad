@@ -13,6 +13,9 @@ Selles repositooriumis on kogumik viipasid (tekstifaile), mis on mõeldud abista
 2. Otsi tekstist **`[...]`** või **`<...>`** osi – need on kohahoidjad, kuhu pead ise sisestama oma lõputöö spetsiifilise info (nt teema, uurimisküsimused jms).
 3. Anna mudelile alati kogu küsitud sisendinfo. Mida täpsema konteksti annad, seda asjakohasema ja parema tulemuse keelemudel genereerib.
 
+Alternatiiv:
+* Kui kasutad mõnda agentset arendusvahendit (nt Codex, Claude Code, Antigravity), mis oskab kasutada arvutis olevaid faile, siis võib lasta sellel samal vahendil need viibad ümber töötada oskusteks/pistikuteks/laiendusteks (sõltub vahendist). Need uued oskused annavad agendile võimekuse muuta otse lõputöö faili.
+
 ## 📁 Ülevaade viipadest
 
 Allpool on toodud selgitused spetsiifilisemate viipade kohta, mida see repositoorium sisaldab:
