@@ -1,4 +1,5 @@
-# Lõputöö tegemise töövoog
+Lõputöö tegemise töövoog
+===
 
 # Agendipõhine (Agentic AI) töövoog lõputöö koostamiseks
 
@@ -38,7 +39,7 @@ Kui agent raporteerib, et töö on valmis, on Teie kohustus tulemus valideerida:
 
 
 
-## Töö loomine väikeste sammudega.
+# Töö loomine väikeste sammudega
 
 > 💡 **Märkus:** Käivitage siin toodud järjekorras viipasid, mis on nimetatud vastavates kataloogides.
 
