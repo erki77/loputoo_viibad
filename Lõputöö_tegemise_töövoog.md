@@ -1,7 +1,7 @@
 Lõputöö tegemise töövoog
 ===
 
-# Agendipõhine (Agentic AI) töövoog lõputöö koostamiseks
+# 1. Agendipõhine (Agentic AI) töövoog lõputöö koostamiseks
 
 Alljärgnev juhis kirjeldab efektiivset töövoogu, kus lõputöö luuakse tervikuna tehisintellekti agentide poolt. Inimese roll selles protsessis on seada piirid, määrata valmisoleku kriteeriumid, tagada sisendandmete kvaliteet ning valideerida lõpptulemus.
 **Eeldus:** Teil on olemas toorkujul tulemused, mida tahate töös esitleda (nt puhastatud koodibaas, küsitluste andmestikud, metoodika märkmed).
@@ -39,7 +39,7 @@ Kui agent raporteerib, et töö on valmis, on Teie kohustus tulemus valideerida:
 
 
 
-# Töö loomine väikeste sammudega
+# 2. Töö loomine väikeste sammudega
 
 > 💡 **Märkus:** Käivitage siin toodud järjekorras viipasid, mis on nimetatud vastavates kataloogides.
 
